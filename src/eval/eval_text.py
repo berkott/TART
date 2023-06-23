@@ -325,7 +325,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--n_positions",
         type=int,
-        default=64,
+        default=258,
     )
 
     parser.add_argument(
